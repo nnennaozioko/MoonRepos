@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonProject", "MoonProject\MoonProject.csproj", "{942245D5-31A2-4ACF-AC1B-067B5497C3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942245D5-31A2-4ACF-AC1B-067B5497C3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942245D5-31A2-4ACF-AC1B-067B5497C3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942245D5-31A2-4ACF-AC1B-067B5497C3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942245D5-31A2-4ACF-AC1B-067B5497C3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F7279C-C262-437F-9655-3FC0FC311D94}
+	EndGlobalSection
+EndGlobal
